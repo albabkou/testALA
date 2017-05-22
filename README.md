@@ -35,24 +35,24 @@ Users.
 | id | Username   | Email   | Password    | 
 |--- |:----------:|:-------:| -----------:|
 | 1  | 'username' | 'email' | 'password'  | 
+| 2  | 'username' | 'email' | 'password'  | 
 | 3  | 'username' | 'email' | 'password'  | 
-| 4  | 'username' | 'email' | 'password'  | 
 
 Books.
 
 | id | Title   | Author   | Genre  |   ISBN  |Description   | Rating | Image Url | Preview Link| 
 |--- |:-------:|:--------:|:------:|:-------:|:------------:|:------:|:---------:| -----------:|
 | 1  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
+| 2  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
 | 3  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
-| 4  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
 
 Joined Table.
 
-| User ref. id | Book ref id | Status   | Review     | 
-|-------------:|:-----------:| :-------:| ----------:|
-|     1        |     1       |'Reading' | 'Loved it' | 
-|     2        |     1       | 'Read'   | 'Hated it' |
-|     1        |     2       | 'To-Read'| 'Loved it' |
+| id | User ref. id | Book ref id | Status   | Review     | 
+|--- |-------------:|:-----------:| :-------:| ----------:|
+| 1  |     1        |     1       |'Reading' | 'Loved it' | 
+| 2  |     2        |     1       | 'Read'   | 'Hated it' |
+| 3  |     1        |     2       | 'To-Read'| 'Loved it' |
 
 ## Advanced Features
 - display books by status on user profile
