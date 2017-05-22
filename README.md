@@ -40,11 +40,11 @@ Users.
 
 Books.
 
-| id | Title   | Author   | ISBN   |Description   | Rating | Image Url | Preview Link| 
-|--- |:-------:|:--------:|:------:|:------------:|:------:|:---------:| -----------:|
-| 1  | 'title' | 'author' | num    |'description' | num    | 'url'     |  'url'      |
-| 3  | 'title' | 'author' | num    |'description' | num    | 'url'     |  'url'      |
-| 4  | 'title' | 'author' | num    |'description' | num    | 'url'     |  'url'      |
+| id | Title   | Author   | Genre  |   ISBN  |Description   | Rating | Image Url | Preview Link| 
+|--- |:-------:|:--------:|:------:|:-------:|:------------:|:------:|:---------:| -----------:|
+| 1  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
+| 3  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
+| 4  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
 
 Joined Table.
 
@@ -66,3 +66,5 @@ Joined Table.
 - https://developers.google.com/books/docs/preview-wizard
 - https://react-bootstrap.github.io/
 - https://www.forbes.com/sites/neilhowe/2017/01/16/millennials-a-generation-of-page-turners/#255cd1fa1978
+
+- https://git.generalassemb.ly/nyc-wdi-ada/ada-with-jointables
