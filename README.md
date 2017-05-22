@@ -4,12 +4,12 @@
 
 ## What is Book Bunch?
 
-Contrary to popular belief, Millennials read more than older generations do—and more than the last generation did at the same age! An [article](https://www.theatlantic.com/technology/archive/2014/09/millennials-are-out-reading-older-generations/379934/) about the 2014 Pew Research Center report said that "Deeper connections with [books] are also often associated with key life moments such as having a child, seeking a job, being a student, and going through a situation in which research and data can help inform a decision." Soooo...basically all all of your 20's. Everything on the internet is interconnected. What better place to have a list of the books you've found on forbes, ESPN, instagram, in a youtube video, amazon etc. than Book Bunch. 
+Contrary to popular belief, Millennials read more than older generations do—and more than the last generation did at the same age! An [article](https://www.theatlantic.com/technology/archive/2014/09/millennials-are-out-reading-older-generations/379934/) about the 2014 Pew Research Center report said that "Deeper connections with [books] are also often associated with key life moments such as having a child, seeking a job, being a student, and going through a situation in which research and data can help inform a decision." Soooo...basically all of your 20's! Everything on the internet is interconnected. What better place to have a list of the books you've found on forbes, ESPN, instagram, in a youtube video, amazon etc. that can help you tackle those life event than Book Bunch? 
 
 Book Bunch is a virtual bookshelf CRUD app where users can: 
 - View books on a user profile archived in the database
-- Add books to the (by searching the google books api)
-- Edit books database, update the status of the book (read, reading, to-read), and add a review of the book.
+- Add books to the databse(by searching the google books api)
+- Edit books in the database, update the status of the book (read, reading, to-read), and add a review of the book
 - And delete books from the database
 
 ## Technologies To Be Used
