@@ -1,5 +1,5 @@
 
 
 import React app
-import home-page 
+import home
 import everything
