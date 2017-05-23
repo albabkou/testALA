@@ -27,7 +27,7 @@ Book Bunch is a virtual bookshelf CRUD app where users can:
 
 #### Landing on home page
 
-![img](./assets/bookbunch_1.png)
+![img](./assets/bookbunch_1.1.png)
 
 #### Registration Form
 
@@ -35,15 +35,15 @@ Book Bunch is a virtual bookshelf CRUD app where users can:
 
 #### Add Book/Search Page
 
-![img](./assets/bookbunch_3.png)
+![img](./assets/bookbunch_3.1.png)
 
 #### User Collection Page
 
-![img](./assets/bookbunch_4.png)
+![img](./assets/bookbunch_4.1.png)
 
 #### Individual Book Page
 
-![img](./assets/bookbunch_5.png)
+![img](./assets/bookbunch_5.1.png)
 
 
 ## Initial thoughts on database structure
