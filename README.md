@@ -73,9 +73,10 @@ User's Books Table.
 | 3  |     1        |     2       | 'To-Read'| 'Loved it' |
 
 ## Advanced Features
-- display books by status on user profile
+- notes section on individual book page
 - embedded/popup book preview
 - Link to amazon to purchase books
+- Ability to scan isbn barcode on mobile
 - Google Chrome extension for easy access to our app from anywhere the user may be surfing in the internet.
 
 ## Links and Resources
