@@ -2,6 +2,8 @@
 
 # Book Bunch
 
+![img](./assets/millenials_read.png)
+
 ## What is Book Bunch?
 
 Contrary to popular belief, Millennials read more than older generations do—and more than the last generation did at the same age! An [article](https://www.theatlantic.com/technology/archive/2014/09/millennials-are-out-reading-older-generations/379934/) about the 2014 Pew Research Center report said that "Deeper connections with [books] are also often associated with key life moments such as having a child, seeking a job, being a student, and going through a situation in which research and data can help inform a decision." Soooo...basically all of your 20's! Everything on the internet is interconnected. What better place to have a list of the books you've found on forbes, ESPN, instagram, in a youtube video, amazon etc. that can help you tackle those life event than Book Bunch? 
@@ -25,7 +27,7 @@ Book Bunch is a virtual bookshelf CRUD app where users can:
 
 #### Landing on home page
 
-![img](path/name.png)
+![img](./assets/bookbunch_1.png)
 
 
 ## Initial thoughts on database structure
@@ -46,7 +48,7 @@ Books.
 | 2  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
 | 3  | 'title' | 'author' | 'genre'|  num    |'description' | num    | 'url'     |  'url'      |
 
-Joined Table.
+User's Books Table.
 
 | id | User ref. id | Book ref id | Status   | Review     | 
 |--- |-------------:|:-----------:| :-------:| ----------:|
@@ -65,6 +67,8 @@ Joined Table.
 - http://developer.nytimes.com/books_api.json#/Documentation/GET/lists.%7Bformat%7D
 - https://developers.google.com/books/docs/preview-wizard
 - https://react-bootstrap.github.io/
+- https://www.nytimes.com/books/best-sellers/?mcubz=0
 - https://www.forbes.com/sites/neilhowe/2017/01/16/millennials-a-generation-of-page-turners/#255cd1fa1978
+- http://www.androidauthority.com/best-ebook-ereader-apps-for-android-170696/
 
 - https://git.generalassemb.ly/nyc-wdi-ada/ada-with-jointables
