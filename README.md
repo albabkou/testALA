@@ -76,6 +76,7 @@ User's Books Table.
 - display books by status on user profile
 - embedded/popup book preview
 - Link to amazon to purchase books
+- Google Chrome extension for easy access to our app from anywhere the user may be surfing in the internet.
 
 ## Links and Resources
 
